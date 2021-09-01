@@ -1,3 +1,3 @@
 # currículo
- Josiel de Castro Goudinho
+ Josiel de Castro Goudinho - 
 Esse foi o dia em que criei esse currículo em HTML para praticar...
