@@ -31,7 +31,7 @@ De 15/12/2011 a 06/08/2012<br><br>
 Habilidades<br>
 Criação e atualização de sites.<br>
 Internet, anúncios, redes sociais, captação de leads etc.<br>
-Estou estudando desenvolvimento web com HTML, CSS e javascript.<br>
+Estou estudando desenvolvimento web com HTML, CSS e Javascript.<br>
 Sei trabalhar com Git e GitHub.<br>
 Faço o processo de hospedar sites e conectar ao domínio.<br>
 Possuo bons conhecimentos em Wordpress.<br>
