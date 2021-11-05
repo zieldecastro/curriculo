@@ -1,5 +1,5 @@
 # currículo em construção.
-Esse foi o dia em que criei esse currículo em HTML para praticar...
+Comecei a criar esse currículo bem básico em HTML para praticar...
 ________________________________________
 Aqui estão as informações que achei relevantes para o momento:<br>
 Josiel de Castro Goudinho<br>
